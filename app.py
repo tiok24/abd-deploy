@@ -394,7 +394,7 @@ elif page == "Ranking Dosen Pembimbing 1":
     # Coba deteksi nama kolom dospem 1
     possible_supervisor_cols = [
         "dospem_1",
-        "dosen_pembimbing_1",
+        "pembimbing_pertama",
         "pembimbing_1",
         "pembimbing1"
     ]
